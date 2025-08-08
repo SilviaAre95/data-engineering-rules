@@ -1,7 +1,7 @@
 # 🏗️ Claude Data Engineering Codex
 
 <div align="center">
-  <img src="assets/hero-image.png" alt="Claude Data Engineering Codex" width="500"/>
+  <img src="assets/assets/bb59b0b0-a9ae-4fa9-a209-82271d20209d.png" alt="Claude Data Engineering Codex" width="500"/>
 </div>
 
 *Transform your data engineering workflow from chaotic to systematic*
