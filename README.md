@@ -1,5 +1,9 @@
 # 🏗️ Claude Data Engineering Codex
 
+<div align="center">
+  <img src="assets/hero-image.png" alt="Claude Data Engineering Codex" width="500"/>
+</div>
+
 *Transform your data engineering workflow from chaotic to systematic*
 
 **Claude Data Engineering Codex** is your blueprint for building bulletproof, production-ready GCP data pipelines with AI assistance. No more ad-hoc solutions, scattered best practices, or reinventing the wheel—just consistent, scalable, and maintainable data engineering that grows with your needs.
